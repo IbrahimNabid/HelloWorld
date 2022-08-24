@@ -4,11 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/starrybackground"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/introTextView"
-        android:textColor="@color/teal_700"
+        android:textColor="@color/white"
+        android:textSize="25sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="16dp"
