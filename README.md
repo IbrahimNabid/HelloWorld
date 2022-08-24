@@ -16,13 +16,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Personalized text and background colors or images
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-![helloworld](https://user-images.githubusercontent.com/79735610/186520893-e3975440-d620-4192-9cce-b54d3109bffe.gif)
+![helloworld](https://user-images.githubusercontent.com/79735610/186535665-0f932a7f-d363-4106-9412-37b3558aca14.gif)
 
 GIF created with [EZGif](https://ezgif.com/video-to-gif/).  
 
