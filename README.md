@@ -29,6 +29,7 @@ GIF created with [EZGif](https://ezgif.com/video-to-gif/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 The toast feature doesn't appear to show in android studio and I am still working on fixing it but it seems to work when I emulate the app on an actual android device.
 
 ## License
