@@ -22,13 +22,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![helloworldandroidapp](https://user-images.githubusercontent.com/79735610/185852461-94d4d993-acb0-4b09-8210-241f81c20915.gif)
+![helloworld](https://user-images.githubusercontent.com/79735610/186520893-e3975440-d620-4192-9cce-b54d3109bffe.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
+GIF created with [EZGif](https://ezgif.com/video-to-gif/).  
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+The toast feature doesn't appear to show in android studio and I am still working on fixing it but it seems to work when I emulate the app on an actual android device.
 
 ## License
 
