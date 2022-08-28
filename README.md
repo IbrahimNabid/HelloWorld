@@ -1,6 +1,6 @@
-# Android Prework - Hello World
+# Android - Hello World
 
-Submitted by: Ibrahim Nabid
+Ibrahim Nabid
 
 **Hello World** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
@@ -8,13 +8,13 @@ Time spent: 2.5 hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
+The following **User Stories** functionality are completed:
 
 * [X] Image and introductory message displayed on screen
 * [X] Button displayed on screen
 * [X] Toast with message appears when button is pressed 
 
-The following **optional** features are implemented:
+The following **additional** features are implemented:
 
 * [X] Personalized text and background colors or images
 
