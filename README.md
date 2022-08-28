@@ -8,7 +8,7 @@ Time spent: 2.5 hours spent in total
 
 ## Required Features
 
-The following **User Stories** functionality are completed:
+The following **User Stories** are completed:
 
 * [X] Image and introductory message displayed on screen
 * [X] Button displayed on screen
